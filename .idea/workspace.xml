@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12746284-09f4-4f76-bbbc-573a7b51481e" name="Changes" comment="" />
+    <list default="true" id="12746284-09f4-4f76-bbbc-573a7b51481e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/song.mp3" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +41,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/S559488/Documents/webapps-repos/Melodify-your-personal-music-companion"
+    "last_opened_file_path": "C:/Users/S559488/Documents/webapps-repos/Melodify-your-personal-music-companion/app/src/main/res/drawable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\S559488\Documents\webapps-repos\Melodify-your-personal-music-companion\app\src\main\res\drawable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\S559488\Documents\webapps-repos\Melodify-your-personal-music-companion\app\src\main\res\raw" />
+    </key>
     <key name="android.template.-700299083">
       <recent name="com.example.melodify_your_personal_music_companion" />
     </key>
