@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12746284-09f4-4f76-bbbc-573a7b51481e" name="Changes" comment="added view song activity xml and code.">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/melodify_your_personal_music_companion/MusicListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/melodify_your_personal_music_companion/MusicListAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/melodify_your_personal_music_companion/MyMediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/melodify_your_personal_music_companion/MyMediaPlayer.java" afterDir="false" />
-    </list>
+    <list default="true" id="12746284-09f4-4f76-bbbc-573a7b51481e" name="Changes" comment="added view song activity xml and code." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
