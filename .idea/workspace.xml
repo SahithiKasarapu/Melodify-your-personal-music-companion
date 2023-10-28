@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7da059d3-4b08-464b-8151-9f475dad4498" name="Changes" comment="" />
+    <list default="true" id="7da059d3-4b08-464b-8151-9f475dad4498" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/melodify_your_personal_music_companion/SplashScreenActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/melodify_your_personal_music_companion/SplashScreenActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +120,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12746284-09f4-4f76-bbbc-573a7b51481e" name="Changes" comment="" />
+      <changelist id="7da059d3-4b08-464b-8151-9f475dad4498" name="Changes" comment="" />
       <created>1696638068702</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
