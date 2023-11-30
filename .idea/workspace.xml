@@ -10,15 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7da059d3-4b08-464b-8151-9f475dad4498" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/melodify_your_personal_music_companion/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/melodify_your_personal_music_companion/SplashScreenActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/melodify_your_personal_music_companion/SplashScreenActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\S561417\.android\avd\Pixel_2_XL_API_34.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[192.168.199.101:5555]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -45,7 +48,13 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="android.template.1992196523">
+      <recent name="com.example.melodify_your_personal_music_companion" />
+    </key>
     <key name="android.template.-700299083">
+      <recent name="com.example.melodify_your_personal_music_companion" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.melodify_your_personal_music_companion" />
     </key>
   </component>
