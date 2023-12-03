@@ -19,3 +19,9 @@
 - Santhosh Reddy Vantikommu – S560607
 - Tagore Charith Chepuri – S559255
 - Arun Sai Ram Nuvvula – S561417
+
+ **Pre-Registered Usernames and Passwords :**
+- sahithi@gmail.com – 12345678
+- santhosh@gmail.com – 12345678
+- tagore@gmail.com– 12345678
+- arun@gmail.com – 12345678
